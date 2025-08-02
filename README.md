@@ -52,6 +52,7 @@ Advanced_Multi_Source_RAG_Chatbot/
 │   ├── text_example.png          # Screenshot of text query response
 │   └── youtube_example.png       # Screenshot of YouTube-based response
 ├── Advanced_Multi_Source_RAG_Chatbot.ipynb  # Colab notebook with full execution
+├── LICENSE                       # MIT License
 └── README.md                     # Project documentation
 ```
 
@@ -71,11 +72,8 @@ Advanced_Multi_Source_RAG_Chatbot/
 ### Install Dependencies
 1. Clone the repository:
    ```bash
-   git clone --no-checkout https://github.com/HimadeepRagiri/ML-and-DL-Projects.git
-   cd ML-and-DL-Projects
-   git sparse-checkout init --cone
-   git sparse-checkout set NLP_Projects/Advanced_Multi_Source_RAG_Chatbot
-   cd NLP_Projects/Advanced_Multi_Source_RAG_Chatbot
+   git clone https://github.com/HimadeepRagiri/Advanced_Multi_Source_RAG_Chatbot.git
+   cd Advanced_Multi_Source_RAG_Chatbot
    ```
 2. Install the required packages:
    ```bash
@@ -212,6 +210,6 @@ Please ensure your code follows the existing structure and includes appropriate 
 ---
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](../../LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
